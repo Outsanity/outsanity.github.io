@@ -23,7 +23,7 @@ body {
 .jumbotron {
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("/goofy.png");
+    background-image: url("goofy.png");
     height: 200px;
     background-color: #000000;
 }
