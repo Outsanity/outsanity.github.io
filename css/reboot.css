@@ -23,7 +23,7 @@ body {
 .jumbotron {
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(https://github.com/Outsanity/outsanity.github.io/i/goofy.png);
+    background-image: url(https://raw.githubusercontent.com/Outsanity/outsanity.github.io/master/i/goofy.png);
     height: 200px;
     background-color: #000000;
 }
